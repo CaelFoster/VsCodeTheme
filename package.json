@@ -1,7 +1,8 @@
 {
   "name": "SpringTheme",
-  "type": "dark",
+  "displayName": "SpringTheme ^-^",
   "description": "the VS code theme i made (very epic) for myself",
+  "type": "dark",
   "version": "1.0.0",
   "publisher": "TonyPeriod",
   "repository":{
