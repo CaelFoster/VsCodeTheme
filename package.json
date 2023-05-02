@@ -2,18 +2,18 @@
   "name": "springtheme",
   "displayName": "SpringTheme ^-^",
   "description": "the VS code theme i made (very epic) for myself",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "TonyPeriod",
-  "repository":{
+  "repository": {
     "type": "git",
     "url": "https://github.com/CaelFoster/VsCodeTheme"
   },
-  "keywords":[
-  "fall theme",
-  "caels theme",
-  "epic theme",
-  "so slayful ^-^",
-  "Theme"
+  "keywords": [
+    "fall theme",
+    "caels theme",
+    "epic theme",
+    "so slayful ^-^",
+    "Theme"
   ],
   "engines": {
     "vscode": "1.77.3",
