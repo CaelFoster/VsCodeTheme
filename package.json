@@ -2,7 +2,7 @@
   "name": "springtheme",
   "displayName": "SpringTheme ^-^",
   "description": "the VS code theme i made (very epic) for myself",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "TonyPeriod",
   "repository": {
     "type": "git",
@@ -14,7 +14,8 @@
     "epic theme",
     "so slayful ^-^",
     "Theme"
-  ],"categories":[
+  ],
+  "categories": [
     "Themes"
   ],
   "engines": {
