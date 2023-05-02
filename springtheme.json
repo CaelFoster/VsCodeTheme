@@ -4,6 +4,9 @@
   "description": "the VS code theme i made (very epic) for myself",
   "version": "1.0.5",
   "publisher": "TonyPeriod",
+  "author":{
+    "name":"CaelFoster"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/CaelFoster/VsCodeTheme"
