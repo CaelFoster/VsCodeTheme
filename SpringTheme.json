@@ -4,6 +4,10 @@
   "description": "the VS code theme i made (very epic) for myself",
   "versopm": "1.0.0",
   "publisher": "TonyPeriod",
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/CaelFoster/VsCodeTheme"
+  },
   "keywords":[
   "fall theme",
   "caels theme",
