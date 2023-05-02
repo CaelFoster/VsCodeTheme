@@ -1,5 +1,5 @@
 {
-  "name": "SpringTheme",
+  "name": "springtheme",
   "displayName": "SpringTheme ^-^",
   "description": "the VS code theme i made (very epic) for myself",
   "type": "dark",
@@ -16,6 +16,11 @@
   "so slayful ^-^",
   "Theme"
   ],
+  "engines": {
+    "vscode": "1.77.3",
+    "node": "20.0.0",
+    "npm": "9.6.5"
+  },
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
