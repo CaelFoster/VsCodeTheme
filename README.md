@@ -14,4 +14,6 @@ this is a dark theme :)
 
 # did you fork this?
 
-nope i made it from scratch 
+nope i made it from scratch
+
+# version "vscode": "^1.79.2"

@@ -23,7 +23,7 @@
     "Themes"
   ],
   "engines": {
-    "vscode": "1.77.3",
+    "vscode": "^1.79.2",
     "node": "20.0.0",
     "npm": "9.6.5"
   },
